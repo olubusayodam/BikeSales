@@ -1,6 +1,6 @@
 # BikeSales
 
-<div text-align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/olubusayodam/BikeSales/main/BIKES.PNG" alt="pix">
 </div>
 
