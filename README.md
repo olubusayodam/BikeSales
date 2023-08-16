@@ -1,8 +1,4 @@
-# BikeSales
 
-
-
-----
 # Analysis and Visualization of Bike Sales Data
 
 ----
