@@ -1,6 +1,6 @@
 # BikeSales
 
-<img src="" alt="pix">
+<img src="https://drive.google.com/file/d/1tHyAob6rI6X75UyyHC1lAyFR3_ikZHVB/view?usp=drive_link" alt="pix">
 #  Project Name: Analysis and Visualization of Bike Sales Data
 
 ----
