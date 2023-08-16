@@ -1,6 +1,6 @@
 # BikeSales
 
-<img src="https://biolabolade.github.io/portfolio/images/Abolade.jpg" alt="pix">
+<img src="" alt="pix">
 #  Project Name: Analysis and Visualization of Bike Sales Data
 
 ----
