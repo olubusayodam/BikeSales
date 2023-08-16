@@ -1,11 +1,11 @@
 # BikeSales
 
 <img src="https://drive.google.com/file/d/1tHyAob6rI6X75UyyHC1lAyFR3_ikZHVB/view?usp=drive_link" alt="pix">
-#  Project Name: Analysis and Visualization of Bike Sales Data
+# Project Name: Analysis and Visualization of Bike Sales Data
 
 ----
 # Project Objective: 
-The objective of this project is to analyze nd visualize the bike sales data to gain insights into customer preferences, income patterns, and age groups most interested in purchasing bikes. By cleaning the dataset, standardizing categorical variables, and creating age brackets, we aim to provide valuable information for businesses to make data-driven decisions and enhance sales strategies.
+The objective of this project is to analyze and visualize the bike sales data to gain insights into customer preferences, income patterns, and age groups most interested in purchasing bikes. By cleaning the dataset, standardizing categorical variables, and creating age brackets, we aim to provide valuable information for businesses to make data-driven decisions and enhance sales strategies.
 
 
 
