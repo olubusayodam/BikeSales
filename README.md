@@ -1,6 +1,6 @@
 # BikeSales
 
-<img src="https://drive.google.com/file/d/1tHyAob6rI6X75UyyHC1lAyFR3_ikZHVB/view?usp=drive_link" alt="pix">
+<img src="https://raw.githubusercontent.com/olubusayodam/BikeSales/main/BIKES.PNG" alt="pix">
 
 ----
 # Project Name: Analysis and Visualization of Bike Sales Data
